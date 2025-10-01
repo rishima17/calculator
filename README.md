@@ -1,7 +1,8 @@
 
 # Calculator
 
-**Tier:** 1-Beginner
+**Tier:** 2-Intermediate
+
 
 A simple calculator app that supports basic arithmetic operations.
 
